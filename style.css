@@ -1,0 +1,33 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  margin: 0px;
+  background: linear-gradient(grey, white);
+  background-repeat:no-repeat;
+  background-attachment:fixed;
+  font-family:'Courier New', Courier, monospace;
+}
+#pic{
+  margin: 8px;
+  position:static;
+  top:125px
+}
+#name{
+  position:absolute;
+  top:200px;
+  left:120px;
+}
+#bloghead{
+  text-align: center;
+  font-size: xx-large;
+}
+.blogtitle{
+  text-align: center;
+}
+.blogpara{
+  border-style: solid;
+  margin: 8px;
+  padding: 5px;
+}
